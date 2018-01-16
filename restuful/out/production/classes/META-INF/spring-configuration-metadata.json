@@ -1,0 +1,28 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.example.api.controller.JokeController",
+      "name": "backend",
+      "type": "com.example.api.controller.JokeController"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.example.api.controller.JokeController",
+      "name": "backend.backend-service-host",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.example.api.controller.JokeController",
+      "defaultValue": 0,
+      "name": "backend.backend-service-port",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.example.api.controller.JokeController",
+      "name": "backend.saying",
+      "type": "java.lang.String"
+    }
+  ]
+}
